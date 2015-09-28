@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  summary: MyString
+  dtstart: 2015-09-28 11:50:13
+  dtend: 2015-09-28 11:50:13
+
+two:
+  summary: MyString
+  dtstart: 2015-09-28 11:50:13
+  dtend: 2015-09-28 11:50:13
